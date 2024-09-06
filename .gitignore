@@ -6,6 +6,7 @@
 
 *.anm
 
-./mayaSwatches
+/.mayaswatches
 */.mayaSwatches
 debug.log
+
